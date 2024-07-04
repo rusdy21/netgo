@@ -206,6 +206,7 @@ nav li {
     padding-bottom: 30px;
 }
 
+
 .title_kube {
     margin-top: 30px;
     font-size: 20px;
@@ -228,3 +229,43 @@ nav li {
     transform: translateY(-2rem);
 }
 
+.logo_serv img{
+    transform: skewY(20deg);
+    max-width: 30px;
+    max-height: 30px;
+    filter: invert(95%) sepia(11%) saturate(3588%) hue-rotate(15deg) brightness(108%) contrast(89%) drop-shadow(3px 3px 1px #095763);
+}
+
+#cybersecurity {
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 1em;
+    margin-right: 1em;
+    text-align: left;
+
+}
+
+.img-box {
+    margin-top: 50px;
+    background-color: #D5E6D3;
+    background-size: 100%;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+#cybersecurity .desc {
+    margin-top: 20px;
+    color: black;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+#cybersecurity .details {
+    margin-top: 50px;
+    color: black;
+    font-size: 10x;
+    font-weight: 100;
+}
