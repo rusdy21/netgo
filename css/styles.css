@@ -269,3 +269,12 @@ nav li {
     font-size: 10x;
     font-weight: 100;
 }
+
+.package {
+    background-color: #f5f5f5;
+    background-size: 100%;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
