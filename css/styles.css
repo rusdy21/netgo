@@ -350,6 +350,10 @@ nav li {
     height: 50px;
 }
 
+.logo_companies li:nth-child(3) img {
+    width: 120px;
+}
+
 #building {
     background-color: #F1F5EF;
     background-size: 100%;
